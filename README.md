@@ -68,3 +68,13 @@ Hey there, My name is Matt and I'm 21 years old. I'm a solo Developer who loves 
 ### Contact Info
 Email: Coming soon!  
 SMS: Coming soon!  
+
+<br>  
+
+<center>
+  ### Statistics
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=eclipseceo&label=Visitors:&color=000000&style=flat" alt="eclipseceo" /> </p>  
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eclipseceo" alt="eclipseceo" /></a> </p>  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eclipseceo&show_icons=true&theme=dark&title_color=00e1ff&text_color=ffffff&bg_color=000000&locale=en" alt="eclipseceo" /></p>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eclipseceo&theme=dark" alt="eclipseceo" /></p>  
+</center>
